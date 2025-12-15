@@ -29,7 +29,7 @@ The code review includes:
 - Identification of areas for improvement such as readability, efficiency, and data handling
 - An overview of planned enhancements and how they connect to course outcomes
 
-Code Review Video Link:
+Code Review Video Link: [Watch Code Review Video](https://youtu.be/NIVlGovUvz4)
 
 ---
 
