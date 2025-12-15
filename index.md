@@ -28,9 +28,19 @@ The Event Tracking App was developed in CS 360 as a mobile application designed 
 Enhancing this app taught me the importance of building software that is both functional and easy to use. One challenge was managing event reminders without slowing down the app, which required careful handling of background tasks. Testing and small, incremental changes helped ensure reliability. This artifact helped me strengthen my software design skills and better understand how technical decisions affect the user experience.
 
 ## Artifact 2: CS 300 ABCU Advising Tool
+####Focus Area: Algorithms and Data Structures
 
+The ABCU Advising Tool was created to help academic advisors quickly access and manage course information. The program loads course data from a file, displays courses in alphabetical order, and allows users to search for specific courses and view prerequisite information. This artifact was selected because it clearly demonstrates my understanding of data structures and algorithm efficiency. I used a binary search tree to organize course data, allowing fast searching and sorting. Enhancements focused on improving input handling, documenting how the data structure works, and ensuring the program could handle courses with or without prerequisites.
+
+Working on this project helped me understand how important it is to choose the right data structure for a problem. Handling input data correctly was one of the main challenges, especially when course information was incomplete. By validating and cleaning the data before inserting it into the tree, I was able to improve stability and performance. This artifact strengthened my problem-solving skills and reinforced the value of efficient program design.
 
 ## Artifact 3: CS 340 CRUD Animal Shelter Project
+####Focus Area: Databases
 
+The Animal Shelter project was developed in CS 340 to manage animal records using a database-driven system. The application supports creating, reading, updating, and deleting records, allowing users to filter and view data through a dashboard interface. I included this artifact because it demonstrates my experience working with databases and backend logic. A key part of this project was creating a reusable CRUD Python module to handle database operations. Enhancements focused on improving code organization, ensuring proper integration between the database and dashboard, and making the system easier to maintain and expand.
+
+This project reinforced the importance of writing reusable and adaptable code. One challenge was integrating the CRUD module with the dashboard, which required revising the original file to ensure proper functionality. Once corrected, the application became fully executable and easier to manage. This artifact strengthened my understanding of full-stack development and reliable data handling.
 
 ## How These Artifacts Work Together
+
+Each artifact in this portfolio represents a different area of computer science. The Event Tracking App highlights software design and user experience, the ABCU Advising Tool demonstrates algorithm efficiency and data organization, and the Animal Shelter project focuses on database integration and data management. Together, these projects show my ability to design, improve, and explain complete software solutions.
