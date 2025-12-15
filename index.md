@@ -10,10 +10,22 @@ Communication and collaboration were important parts of my coursework. Even when
 Security was also introduced throughout my coursework and became an important part of how I approach development. I learned to validate user input, protect stored data, and design programs that reduce errors and misuse. While security is an area that continues to grow and change, my coursework helped me build strong habits focused on writing safer and more dependable software. The artifacts included in this ePortfolio represent my growth across the computer science program. Each project was selected and enhanced to show progress in software design and engineering, algorithms and data structures, and databases. Together, these artifacts demonstrate my ability to review existing code, improve functionality, and clearly explain my work. This ePortfolio reflects not only the completion of my degree, but also my readiness to move forward into the computer science field with confidence.
 
 ## Code Review Video
+Before enhancing my artifacts, I completed an informal code review to examine how each project originally worked and identify areas for improvement. The goal of this review was to explain the existing functionality, discuss what could be improved, and outline the enhancements I planned to make.
 
+The code review includes:
+- A walkthrough of the original functionality of each project
+- A discussion of code structure, logic, and organization
+- Identification of areas for improvement such as readability, efficiency, and data handling
+- An overview of planned enhancements and how they connect to course outcomes
+
+Code Review Video Link:
 
 ## Artifact 1: CS 360 Event Tracking App
+### Focus Area: Software Design and Engineering
 
+The Event Tracking App was developed in CS 360 as a mobile application designed to help users create, manage, and track events. The app allows users to store event details such as date, time, and location, and provides reminders so important events are not missed. The overall goal of the app is to help users stay organized and reduce the stress of managing busy schedules. I chose this artifact because it demonstrates my ability to design a complete, user-focused application. The app includes multiple screens, such as an event list, event detail view, event creation screen, and settings screen. Enhancements focused on improving code organization, refining navigation between screens, and making the user experience more intuitive. This project highlights my skills in modular design, UI planning, and application maintenance.
+
+Enhancing this app taught me the importance of building software that is both functional and easy to use. One challenge was managing event reminders without slowing down the app, which required careful handling of background tasks. Testing and small, incremental changes helped ensure reliability. This artifact helped me strengthen my software design skills and better understand how technical decisions affect the user experience.
 
 ## Artifact 2: CS 300 ABCU Advising Tool
 
