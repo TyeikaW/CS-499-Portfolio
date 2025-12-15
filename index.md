@@ -40,6 +40,7 @@ The Event Tracking App was developed in CS 360 as a mobile application designed 
 
 Enhancing this app taught me the importance of building software that is both functional and easy to use. One challenge was managing event reminders without slowing down the app, which required careful handling of background tasks. Testing and small, incremental changes helped ensure reliability. This artifact helped me strengthen my software design skills and better understand how technical decisions affect the user experience.
 
+[Download CS 360 Event Tracking App](artifact1.zip)
 ---
 
 ## Artifact 2: CS 300 ABCU Advising Tool
@@ -49,6 +50,7 @@ The ABCU Advising Tool was created to help academic advisors quickly access and 
 
 Working on this project helped me understand how important it is to choose the right data structure for a problem. Handling input data correctly was one of the main challenges, especially when course information was incomplete. By validating and cleaning the data before inserting it into the tree, I was able to improve stability and performance. This artifact strengthened my problem-solving skills and reinforced the value of efficient program design.
 
+[Download CS 300 ABCU Advising Tool](artifact2.zip)
 ---
 
 ## Artifact 3: CS 340 CRUD Animal Shelter Project
@@ -58,6 +60,7 @@ The Animal Shelter project was developed in CS 340 to manage animal records usin
 
 This project reinforced the importance of writing reusable and adaptable code. One challenge was integrating the CRUD module with the dashboard, which required revising the original file to ensure proper functionality. Once corrected, the application became fully executable and easier to manage. This artifact strengthened my understanding of full-stack development and reliable data handling.
 
+[Download CS 340 CRUD Animal Shelter Porject](artifact3.zip)
 ---
 
 ## How These Artifacts Work Together
