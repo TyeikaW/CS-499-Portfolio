@@ -21,7 +21,7 @@ The code review includes:
 Code Review Video Link:
 
 ## Artifact 1: CS 360 Event Tracking App
-### Focus Area: Software Design and Engineering
+#### Focus Area: Software Design and Engineering
 
 The Event Tracking App was developed in CS 360 as a mobile application designed to help users create, manage, and track events. The app allows users to store event details such as date, time, and location, and provides reminders so important events are not missed. The overall goal of the app is to help users stay organized and reduce the stress of managing busy schedules. I chose this artifact because it demonstrates my ability to design a complete, user-focused application. The app includes multiple screens, such as an event list, event detail view, event creation screen, and settings screen. Enhancements focused on improving code organization, refining navigation between screens, and making the user experience more intuitive. This project highlights my skills in modular design, UI planning, and application maintenance.
 
